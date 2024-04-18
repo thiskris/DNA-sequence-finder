@@ -1,7 +1,3 @@
-// CS141
-// Stephanie Wear
-// Kris McFarland
-
 // This program reports information about DNA Genes. 
 //	It lists the sequence of Nucleotides in the DNA gene
 //	the count of each type of Nucleotide in the sequence
