@@ -1,9 +1,10 @@
 # DNA-sequence-finder
 Finds DNA sequence types
 
-#Output
+# Output
 List the Region name/title
-: Prints out the region name/title 
+: Prints out the region name/title
+
 List the sequence of Nucleotides
 : Prints out the list of Nucleotides the same as sequence in text document
 Count Nucleotide
